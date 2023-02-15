@@ -1,5 +1,8 @@
 # Week 0 — Billing and Architecture
+Boy oh Boy, week 0 has been intense! I watched the Week 0 live stream where I learned about working with customers to understand their needs and work towards a cloud strategy. It was emphasized that we shouldn't be afraid to ask "dumb" questions as it could lead to some "aha" moments. The session gave me an insightful introduction to cloud computing, and it made me realize that there's a lot more to learn. 
 
+
+I'm excited to see what the next few weeks have in store for me.
 
 
 
