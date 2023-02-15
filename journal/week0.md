@@ -16,4 +16,5 @@ While attending the Free AWS Cloud Bootcamp, I made the decision to simultaneous
 
 During week 0 of the resume challenge, I wrote my resume in HTML and CSS, and purchased a domain on Route 53 to host my static website on S3. This was a challenging yet fulfilling experience that allowed me to showcase my skills and knowledge of AWS technologies. 
 Here's my hosted resume on S3: http://corvettasmith.com/, Cloudfront is enabled, but my site in still showing as "unsecured". I will continue to work on figuring out where I missteped. 
+
 Check out my diagram: ![Resume Challenge ](https://user-images.githubusercontent.com/22455730/218944647-eb3f1e2d-086b-4c49-aee2-22f2652e6b17.jpeg)
