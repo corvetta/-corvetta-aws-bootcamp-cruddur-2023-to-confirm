@@ -1,6 +1,9 @@
 # Week 0 — Billing and Architecture
-Boy oh Boy, week 0 has been intense! I watched the Week 0 live stream where I learned about working with customers to understand their needs and work towards a cloud strategy. It was emphasized that we shouldn't be afraid to ask "dumb" questions as it could lead to some "aha" moments. The session gave me an insightful introduction to cloud computing, and it made me realize that there's a lot more to learn. 
+Boy oh boy, Week 0 has been intense! I watched the Week 0 live streams where I learned about working with customers to understand their needs and develop a cloud strategy, as well as security considerations. It was emphasized that we shouldn't be afraid to ask "dumb" questions as it could lead to some "aha" moments. The session gave me an insightful introduction to cloud computing, and it made me realize that there's a lot more to learn.
 
+To summarize my homework: First, I generated AWS credentials to gain access to the AWS platform. Then, I used the CloudShell to execute commands and manage my AWS resources directly from my browser. Next, I created an admin user and set up my billing alarm and budget to ensure that I have complete control over my AWS account and to prevent any unwanted charges. To streamline my work, I installed the AWS CLI to interact with AWS services through the command-line interface.
+
+Finally, I recreated both logical and conceptual architectural diagrams to better understand the architecture of my AWS resources and to ensure that everything is organized and structured in the most efficient way possible. Overall, I am confident that these steps have enabled me to effectively manage my AWS resources and better understand the underlying architecture.
 
 I'm excited to see what the next few weeks have in store for me.
 
