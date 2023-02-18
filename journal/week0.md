@@ -8,6 +8,7 @@ Finally, I recreated both logical and conceptual architectural diagrams to bette
 I'm excited to see what the next few weeks have in store for me.
 
 
+![Cruddur- Conceptual Diagram](https://user-images.githubusercontent.com/22455730/219844245-f9dacb9a-642e-411b-b709-cf16ceee4a72.png)
 
 
 
